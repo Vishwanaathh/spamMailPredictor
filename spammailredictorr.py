@@ -36,4 +36,4 @@ print("The mean error for Linear regression",mse)
 
 # Calculate f1 score for SvM
 f1 = f1_score(p2, Y_test)
-print("F1 score for :", f1)
+print("Accuracy score for SVM :", f1)
